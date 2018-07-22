@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Databases- Many Choices"
-date:       2018-05-23 03:33:03 +0000
+date:       2018-05-22 23:33:04 -0400
 permalink:  databases-_many_choices
 ---
 
